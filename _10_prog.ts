@@ -8,4 +8,3 @@ console.log(myString);
 let myString1 = 'Excellence';
 console.log(myString1);
 myString1 = 100;
-// error does appear, so typescript is smart enough to understand that myString1 variable has a string assigned to it
