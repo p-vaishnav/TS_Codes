@@ -1,4 +1,4 @@
-// union is a way to avoid/write any type
+// union is a way to avoid/write :any type
 // this is much useful
 
 let _creditScore: number | string = 33;
